@@ -1,1 +1,3 @@
-print("Hello from xyz.py")
+def mul(a, b):
+    print("Calculation result: ", (a*b))
+    return a*b
